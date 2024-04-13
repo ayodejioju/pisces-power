@@ -1,10 +1,12 @@
 # PiscesPower
 
-## Pisces Horoscope Analyzer
+## A Pisces Horoscope Analyzer
 
-Welcome to the Pisces Horoscope Analyzer! This Python program scrapes daily horoscope information for Pisces from various astrology websites, analyzes it, and provides personalized insights and predictions tailored to Pisces individuals.
+Welcome to the PiscesPower!
 
-![Pisces Horoscope](pisces_horoscope.png)
+This Python program scrapes daily horoscope information for Pisces from various astrology websites, analyzes it, and provides personalized insights and predictions tailored to Pisces individuals.
+
+![Pisces Horoscope](PiscesPower.png)
 
 ## Features
 - Web scraping: Get daily horoscope information for Pisces from top astrology websites.
@@ -14,10 +16,13 @@ Welcome to the Pisces Horoscope Analyzer! This Python program scrapes daily horo
 
 ## Getting Started
 To use the Pisces Horoscope Analyzer:
-1. Clone this repository to your local machine.
-2. Install the required Python libraries using `pip install -r requirements.txt`.
-3. Run the program using `python horoscope_analyzer.py`.
-4. Enjoy your personalized horoscope insights!
+Clone this repository to your local machine.
+
+Install the required Python libraries using `pip install -r requirements.txt`.
+
+Run the program using `python horoscope_analyzer.py`.
+
+Enjoy your personalized horoscope insights!
 
 ## Usage
 - Choose your zodiac sign (Pisces) to receive daily horoscope insights.
