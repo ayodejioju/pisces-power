@@ -2,8 +2,6 @@
 
 ## A Pisces Horoscope Analyzer
 
-Welcome to the PiscesPower!
-
 This Python program scrapes daily horoscope information for Pisces from various astrology websites, analyzes it, and provides personalized insights and predictions tailored to Pisces individuals.
 
 ![Pisces Horoscope](PiscesPower.png)
